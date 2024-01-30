@@ -28,8 +28,8 @@ Welcome to the Legit Daily Planner
 - HTML
 - CSS
 - JavaScript
--DayJS
--jQuery
+- DayJS
+- jQuery
 
 ## Contributing
 
