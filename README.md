@@ -10,7 +10,7 @@ Welcome to the Legit Daily Planner
 
 ## Getting Started
 
-1. Open the [Legit Daily Planner]().
+1. Open the [Legit Daily Planner](https://lage356.github.io/legit-daily-planner/).
 2. Click on the text area at desired office hour
 3. Click on the save icon at the right 
 4. Store your events
